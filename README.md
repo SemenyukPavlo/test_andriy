@@ -8,7 +8,7 @@ TYPE_OF_ENTITY: ['users', 'topics', 'comments', 'categories']
 TYPE_OF_FILE: ['small', 'medium', 'large', 'original']
 small - max width or height 400px
 medium - max width or height 800px
-large - max width or height 120px
+111large - max width or height 120px
 
 ```
 
